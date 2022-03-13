@@ -1,0 +1,29 @@
+body{
+    justify-content: center;
+}
+#div1Class> h1{
+    color: brown;
+    font-family: cursive;  
+    text-align: center;
+} 
+#thirdDiv>ul>li>img {
+    width: 400px
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: beige;
+    padding: 10px;
+    border: solid 1px;
+}
+#spanId{
+    font-size: 18px;
+    margin: 70px;
+}
+body {
+    height:900px;
+    background-image: url("https://domesticasdecolombia.com/wp-content/uploads/2021/08/chef-domesticas-de-colombia.png");
+    background-size: right;
+    background-repeat:no-repeat;
+    background-position: right right;
+  }
